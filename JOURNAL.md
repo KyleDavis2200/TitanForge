@@ -12,5 +12,5 @@ Researched components:
 
 Began CAD Models:
 
-<img src="https://github.com/KyleDavis2200/TitanForge/blob/main/hotend%20subassem%20v1.png" width="550">
+<img src="https://github.com/KyleDavis2200/TitanForge/blob/main/hotend%20subassem%20v1.png" width="350">
 <img src="https://github.com/KyleDavis2200/TitanForge/blob/main/bed%20model.png" width="550">
