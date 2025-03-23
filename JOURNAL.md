@@ -8,5 +8,5 @@ Total hours so far: 5
 5 Hours
 Researched components:
 
-<img src="https://github.com/KyleDavis2200/TitanForge/blob/main/research.png" width="350">
+<img src="https://github.com/KyleDavis2200/TitanForge/blob/main/research.png" width="550">
 
