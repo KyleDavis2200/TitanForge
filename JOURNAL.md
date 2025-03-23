@@ -7,5 +7,7 @@ Total hours so far: 5
 ### 3/23/2025
 5 Hours
 Researched components:
-![](https://github.com/KyleDavis2200/TitanForge/blob/main/research.png | width=100)
+![](https://github.com/KyleDavis2200/TitanForge/blob/main/research.png )
+
+<img src="https://github.com/KyleDavis2200/TitanForge/blob/main/research.png" width="150" height="280">
 
