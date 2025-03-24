@@ -10,6 +10,10 @@ Researched components:
 
 <img src="https://github.com/KyleDavis2200/TitanForge/blob/main/research.png" width="550">
 
+Began Bill of Materials:
+
+<img src="https://github.com/KyleDavis2200/TitanForge/blob/main/day1%20bom.png" width="350">
+
 Began CAD Model:
 
 <img src="https://github.com/KyleDavis2200/TitanForge/blob/main/day%201%20cad.png" width="350">
