@@ -12,4 +12,4 @@ Researched components:
 
 Began CAD Model:
 
-<img src="[https://github.com/KyleDavis2200/TitanForge/blob/main/hotend%20subassem%20v1.png](https://github.com/KyleDavis2200/TitanForge/blob/main/day%201%20cad.png)" width="350">
+<img src="https://github.com/KyleDavis2200/TitanForge/blob/main/day%201%20cad.png" width="350">
