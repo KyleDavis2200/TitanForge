@@ -43,3 +43,10 @@ As it sits writing this, the printer is currently 95% done, just needing the par
 <img src="https://github.com/KyleDavis2200/TitanForge/blob/main/day%202%20bom.png" width="550">
 
 This CAD model shows a few glitches I ran into in Solidworks. I have the brackets set to mirror across the frame, yet one of them isn't mirroring properly. They are all set to the same mirror setting, but it isn't working properly even after rebuilding.  
+
+### 3/26/2025
+1 Hour (Updating Journal and submitting)
+
+In an effort to take advantage of the Aliexpress sale, I am submitting my printer for review as is. All that I have left to do is source screws and heatset inserts, model the cooling fan mounting, LED PCB mounting, and model the part cooling ducts. I'd completely understand if this was rejected though, as the design isn't **done**, but its very very close so I figured I would try submitting it anyways as I don't have time to finish it before the Aliexpress sale ends.
+
+What did I learn during this project? Well its certainly not healthy to spend 15 hours a day on CAD and Aliexpress. However, I did learn a lot about managing deadlines that would have helped me if I knew it even just 2 days ago. I should have submitted the design on the 24th since I haven't really changed anything after that, and realistically the project probably won't even begin to be reviewed by the time the sale ends as many other printers are being submitted right now and I didn't give the reviewer much time. Of course, I also learned a lot about the printer's electronics and I leanred a new Solidworks workflow of using the cavity tool to make parts fit together in assemblies. 
