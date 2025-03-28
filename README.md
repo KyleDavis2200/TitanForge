@@ -6,6 +6,7 @@ Titanforge is a budget 3D printer that is designed around printing TPU and fille
 ## Goals
 
 **
+
 My initial goals when I set out to design this printer were as follow:
 - Nylon capable
 - Enclosed (not in current design due to time constraints, but can easily be added in after its built)
@@ -25,9 +26,13 @@ Some other features that I wanted, but did not prioritize as highly were:
 - At least a 250mm square bed
 
 ## Journal
+
 **
+
 My progress log for this project can be read [here](https://github.com/KyleDavis2200/TitanForge/blob/main/JOURNAL.md).
 
 ## BOM
+
 **
+
 The Bill of Materials for this project can be accessed [here](https://docs.google.com/spreadsheets/d/1HU43WZFCzA5h-TumXBwPgxOlLhfy4ffRw3bo8JwlWeo/edit?usp=sharing).
