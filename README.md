@@ -2,6 +2,7 @@
 Titanforge is a budget 3D printer that is designed around printing TPU and filled Nylons, which many entry level printers struggle to print without heavy modification.
 
 <img src="https://github.com/KyleDavis2200/TitanForge/blob/main/image_2025-03-28_122029202.png" width="550">
+
 ## Goals
 
 **
