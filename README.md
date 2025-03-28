@@ -11,6 +11,7 @@ My initial goals when I set out to design this printer were as follow:
 - 300C+ Hotend
 - Heated Bed
 - Direct Drive
+
 Some other features that I wanted, but did not prioritize as highly were:
 - CoreXY
 - Klipper
