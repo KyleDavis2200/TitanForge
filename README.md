@@ -3,5 +3,19 @@ A budget 3D printer aiming to be able to print filled Nylons and TPU
 <img src="https://github.com/KyleDavis2200/TitanForge/blob/main/image_2025-03-28_122029202.png" width="550">
 ## Goals
 ***
-
-
+My initial goals when I set out to design this printer were as follow:
+- Nylon capable
+- Enclosed (not in current design due to time constraints, but can easily be added in after its built)
+- Hardened Extruder Gears
+- All Metal Hotend
+- 300C+ Hotend
+- Heated Bed
+- Direct Drive
+Some other features that I wanted, but did not prioritize as highly were:
+- CoreXY
+- Klipper
+- Automatic Bed Leveling
+- 300mm wide bed
+- Dual Material (was not implemented due to price/complexity)
+- Touch screen (not implemented due to price)
+- At least a 250mm square bed
