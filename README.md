@@ -20,3 +20,11 @@ Some other features that I wanted, but did not prioritize as highly were:
 - Dual Material (was not implemented due to price/complexity)
 - Touch screen (not implemented due to price)
 - At least a 250mm square bed
+
+## Journal
+***
+My progress log for this project can be read [here](https://github.com/KyleDavis2200/TitanForge/blob/main/JOURNAL.md).
+
+## BOM
+***
+The Bill of Materials for this project can be accessed [here](https://docs.google.com/spreadsheets/d/1HU43WZFCzA5h-TumXBwPgxOlLhfy4ffRw3bo8JwlWeo/edit?usp=sharing).
