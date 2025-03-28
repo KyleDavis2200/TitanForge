@@ -23,6 +23,10 @@ Some other features that I wanted, but did not prioritize as highly were:
 - Touch screen (not implemented due to price)
 - At least a 250mm square bed
 
+## CAD Files
+
+The CAD files for this project can be found [here](https://github.com/KyleDavis2200/TitanForge/blob/main/Assembly.zip)
+
 ## Journal
 
 My progress log for this project can be read [here](https://github.com/KyleDavis2200/TitanForge/blob/main/JOURNAL.md).
