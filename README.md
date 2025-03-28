@@ -25,7 +25,7 @@ Some other features that I wanted, but did not prioritize as highly were:
 
 ## CAD Files
 
-The CAD files for this project can be found [here](https://github.com/KyleDavis2200/TitanForge/blob/main/Assembly.zip)
+The CAD files for this project can be found [here](https://github.com/KyleDavis2200/TitanForge/blob/main/Assembly.STEP)
 
 ## Journal
 
